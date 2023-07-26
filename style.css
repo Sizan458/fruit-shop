@@ -11,7 +11,7 @@ body{
 }
 .team-bg{
     background-image: url("images/team.png");
-    background-repeat: no-repeat;
+    ;
     
     
     height: 55vh;
